@@ -24,6 +24,5 @@
 
 ### Em busca de uma oportunidade de estágio
 
-Univercitario na Instituição Univercidade de Braz Cubas.<br/>
-Cursando Analise e Desenvolvimento de Sistemas, atualmento no segundo semestre
+
 
