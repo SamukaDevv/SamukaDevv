@@ -7,6 +7,8 @@
 
 ![Samuka GitHub stats](https://github-readme-stats.vercel.app/api?username=SamukaDevv&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamukaDevv)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias de interece
 
 <div style=" diplay: inline_blok"><br/>
@@ -24,3 +26,4 @@
 
 Univercitario na Instituição Univercidade de Braz Cubas.<br/>
 Cursando Analise e Desenvolvimento de Sistemas, atualmento no segundo semestre
+
