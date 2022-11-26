@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamukaDevv)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias de interece
+## Tecnologias de interesse
 
 <div style=" diplay: inline_blok"><br/>
   
